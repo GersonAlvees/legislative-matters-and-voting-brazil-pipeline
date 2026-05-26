@@ -111,4 +111,4 @@ celerybeat.pid
 *.sage.py
 
 # Arquivos locais
-/bronze_local
+/bronze
